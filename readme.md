@@ -1,3 +1,15 @@
+```
+brew install node@18
+'export PATH="/opt/homebrew/opt/node@18/bin:$PATH"' >> ~/.zshrc
+```
+```
+git clone https://github.com/conphi/pdf-editor.git
+cd pdf-editor
+npm install
+npm install -g yarn
+npm run dev
+```
+
 # PDF Editor
 
 No install. No server. ¯\\\_(ツ)\_/¯ https://pdf-editor.now.sh
