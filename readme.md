@@ -1,3 +1,5 @@
+### hold the 'shift' key to keep the ratio
+
 ```
 brew install node@18
 'export PATH="/opt/homebrew/opt/node@18/bin:$PATH"' >> ~/.zshrc
